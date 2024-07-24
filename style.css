@@ -1,0 +1,153 @@
+.cab{ /** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+    display: flex;
+    justify-content: space-between;
+    background-image: -moz-linear-gradient(green, yellow);
+}
+.fundo{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+    
+    margin:0% ;
+   background-color:rgb(255, 255, 0); 
+}
+
+.imagem1{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+    width: 15%;
+    height: 15%;
+}
+.imagem2{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+    width: 15%;
+    height: 15%;
+}
+.patrola{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+ width: 23%;
+ font-size: 68%;
+}
+
+.pacarregadeira{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+width:19% ;
+
+}
+
+.restcavadeira{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+width:20% ;
+
+
+
+}
+
+.bobcat{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+width:20% ;
+
+
+}
+
+
+.titulo{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+    padding: 2%;
+    margin-left:6%;
+    font-size: 200%;
+}
+.titulo1{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+    margin-left: 30%;
+    color: rgb(201, 7, 7);
+    font-size: 300%;
+
+    
+}
+
+.sub{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+   display: flex;
+   justify-content: space-around;
+   background-color: black;
+
+}
+ .sec2{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+    background-color:yellow;
+    display: flex;
+    justify-content: space-between;
+ 
+}
+
+.sec3{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+  background-color: rgb(10, 10, 10);
+    
+}
+
+ 
+.m1{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+   color: rgb(217, 255, 0); /**bbbbb**/
+
+
+}
+
+.m2{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+ color:rgb(217, 255, 0);
+}
+  
+.m3{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+ color: rgb(217, 255, 0);;
+}
+
+.m4{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+ color: rgb(217, 255, 0);;
+}
+
+.ul{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+    margin-right: 5%;
+}
+
+
+ #divBusca{
+        background-color:#2F4F4F;
+        border:solid 1px;
+        border-radius:15px;
+        width:300px;
+        margin-left: 14%;
+        display: flex;
+
+      }
+ #txtBusca{
+        float:left;
+        background-color:transparent;
+        padding-left:5px;
+        font-style:italic;
+        font-size:18px;
+        border:none;
+        height:32px;
+        width:260px;
+    
+       
+    
+      }
+
+.lupa{
+width: 30px;
+height: 30px;
+
+
+
+
+}
+
+
+
+.trabalho{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+    color: blue;
+    justify-content: center;
+
+}
+
+.LINK{/** É uma classe para vc mudar o conjunto. EX: cor, tamanho, etc**/
+    color: yellow;
+margin-left: 49%;
+
+
+}
+
+.botao{
+
+font-size: 200%;
+margin-left:43% ;
+
+
+}
+

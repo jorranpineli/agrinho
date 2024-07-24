@@ -1,0 +1,58 @@
+.fundo{
+
+    background-image: -moz-linear-gradient(green,yellow );
+margin: 0%;
+
+
+}
+
+
+
+
+.titulo1{
+  font-size: 985%;
+  margin-left: 32%;
+    
+}
+.rest{
+  display: flex;
+  }
+.cavadeira{
+ width: 475px;
+ height: 280px;
+ border-radius: 50px;
+}
+  .restro{
+padding-left: 6%;
+text-align: center;
+  }
+
+
+.wastt{
+margin-left: 35%;
+width: 140px;
+height: 90px;
+
+
+
+}
+
+
+.wast{
+display: flex;
+
+background-color: rgb(67, 228, 35);
+
+
+
+
+}
+
+.link{
+font-size: 150%;
+
+
+
+}
+
+
