@@ -1,1 +1,1 @@
-# agrinho
+O site oferece uma visão abrangente dos serviços de terraplenagem disponíveis, destacando vários tipos de equipamentos como motoniveladora, pá carregadeira, retroescavadeira e bobcat. O site fornece detalhes técnicos sobre cada equipamento e suas aplicações em diferentes tipos de projetos de construção e terraplenagem. Além disso, há uma seção para agendamento de serviços, permitindo que os clientes entrem em contato e solicitem orçamentos personalizados para suas necessidades específicas de terraplenagem.
